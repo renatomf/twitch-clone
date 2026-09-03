@@ -167,9 +167,3 @@ twitch-clone/
 - [ ] Testes automatizados
 - [ ] Definir licença do projeto
 
-
-<div align="center">
-
-Feito por [@renatomf](https://github.com/renatomf)
-
-</div>
