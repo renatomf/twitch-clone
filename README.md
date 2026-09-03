@@ -8,7 +8,6 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org)
 [![Clerk](https://img.shields.io/badge/Auth-Clerk-6C47FF)](https://clerk.com)
-[![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-yellow)]()
 
 </div>
 
