@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Twitch Clone
+# 🎮 Streamly
 
 ### Plataforma de live streaming — transmissões ao vivo, chat em tempo real e gestão de canais
 
@@ -16,7 +16,7 @@
 
 ## 📋 Sobre o projeto
 
-**Twitch Clone** é uma plataforma de transmissão de vídeo ao vivo, no estilo **Twitch**, construída com **Next.js** e **Clerk** para autenticação. A proposta é permitir que criadores façam **live streaming**, tenham um **chat em tempo real** com a audiência, sistema de **seguidores** e um **painel de gerenciamento de canal**.
+**Streamly** é uma plataforma de transmissão de vídeo ao vivo, no estilo **Twitch**, construída com **Next.js** e **Clerk** para autenticação. A proposta é permitir que criadores façam **live streaming**, tenham um **chat em tempo real** com a audiência, sistema de **seguidores** e um **painel de gerenciamento de canal**.
 
 > ⚠️ **Nota de transparência importante:** o repositório está em **estágio inicial** (apenas 2 commits até o momento desta análise). O `package.json` atual contém somente o **scaffold de autenticação e UI** (`@clerk/nextjs`, `@clerk/themes`, Radix UI, Tailwind) — as dependências de streaming ao vivo (ex.: LiveKit), banco de dados (ex.: Prisma) e upload de mídia (ex.: UploadThing) **ainda não foram adicionadas** ao projeto.
 >
